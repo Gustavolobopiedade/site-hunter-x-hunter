@@ -20,6 +20,7 @@ header h1{
 }
 
 .principal img {
+    border: 10px solid;
     width: 232px;
     right: 131px;
     border-color: red;
