@@ -20,10 +20,10 @@ header h1{
 }
 
 .principal img {
-    object-fit: cover;
-    border: 10px solid;
     width: 232px;
     right: 131px;
+    object-fit: cover;
+    border: 10px solid;
     border-color: red;
 
 }
