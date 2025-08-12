@@ -21,4 +21,5 @@ header h1{
 .img-menores{
     width: 232px;
     right: 131px;
+    border-color: red;
 }
