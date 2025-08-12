@@ -18,6 +18,10 @@ header h1{
     top: 46px;
     position: relative;
 }
+section .principal{
+    text-align: center;
+    justify-content: center;
+}
 
 .principal img {
     width: 232px;
