@@ -18,8 +18,10 @@ header h1{
     top: 46px;
     position: relative;
 }
-.principal{
+
+.principal img {
     width: 232px;
     right: 131px;
     border-color: red;
+
 }
